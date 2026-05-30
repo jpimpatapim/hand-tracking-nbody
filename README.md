@@ -11,7 +11,7 @@ git clone [https://github.com/jpimpatapim/hand-tracking-nbody.git](https://githu
 cd hand-tracking-nbody
 ```
 
-### 2. Instalar dependencias*
+### 2. Instalar dependencias
 Instala las librerías requeridas (OpenCV, MediaPipe y NumPy) usando el gestor de paquetes de Python:
 ```bash
 pip install opencv-python mediapipe numpy
