@@ -1,5 +1,3 @@
-Markdown
-
 # Instalación
 
 Para ejecutar este proyecto en tu entorno local, asegúrate de tener **Python 3.8 o superior** instalado y sigue estos pasos:
